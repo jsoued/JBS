@@ -4,7 +4,7 @@ import java.util.Random;
 //Creates class.
 public class Maze {
 
-	//Fields!
+	//Fields! ...
 	ArrayList<String> array1 = new ArrayList<String> ();
 	int m;
 	int n;	
